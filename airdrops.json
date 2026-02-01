@@ -6,8 +6,21 @@
       "title": "Shade Network",
       "project_url": "https://v1.shadenetwork.io/",
       "url": "https://v1.shadenetwork.io/",
-      "summary": "Ethereum, en merkeziyetsiz Layer 1 ağlardan biri olsa da yerleşik bir gizlilik altyapısına hâlâ sahip değil.\r\n\r\nShade Network, yürütme katmanında gizliliği yeniden sağlamak için devreye giriyor 🕶️\r\n\r\nShade, Ethereum üzerine inşa edilmiş, varsayılan olarak şifreli çalışan özel bir Layer 2 ağıdır. İşlemler onaylandıktan sonra, her transfer, akıllı sözleşme etkileşimi ve agent aksiyonu görünmez hâle gelir.\r\n\r\nTeknik tarafta ise işlemler hiçbir zaman herkese açık bir mempool’a girmez, yürütme verileri şifrelenir ve akıllı sözleşme etkileşimleri dış gözlemcilere tamamen kapalı kalır. Bu yapı; kullanıcı davranışlarının izlenmesini, strateji sızıntılarını ve frontrunning riskini yürütme sürecinden ortadan kaldırır 🔐\r\n\r\n🪂 Testnet’in yayına girmesiyle birlikte Shade Network, $SHD Airdrop Season 0 sürecini başlattı.\r\n\r\nBu ilk aşamada kullanıcılar; basit sosyal görevleri tamamlayarak, onchain testnet görevlerine katılarak ve arkadaşlarını davet ederek şifreli yürütme yapısıyla etkileşime girebiliyor.\r\n\r\nToplam $SHD token arzının %33.3’üne kadar olan kısmı, Season 0 airdrop’una ayrılmış durumda ✨\r\n\r\nKatılım, Shade ağı üzerindeki gerçek aktiviteleri yansıtan Points sistemi üzerinden takip ediliyor.\r\n\r\n[gorev]\r\nShade Network Airdrop Adım Adım Rehber\r\nBaşlangıç → Shade Network testnet portalına gir, EVM uyumlu cüzdanını bağla ve profilini aktif etmek için kendine özel bir kullanıcı adı seç. Böylece görevler paneline erişim açılır.\r\nSosyal görevler → Social bölümüne geçerek Shade’i 𝕏’te takip etmek, Discord’a katılmak ve resmi paylaşımlarla etkileşime girmek gibi görevleri tamamla. Bu adımlarla Shadows Points kazanırsın.\r\nOnchain görevler → Onchain sekmesine geç ve testnet üzerindeki aktiviteleri tamamlayarak şifreli işlemlerle etkileşime gir. Tamamlanan her görev ek Shadows Points kazandırır.\r\nReferanslar → Davet linkini arkadaşlarınla paylaş. Davet edilen kullanıcılar katılıp görevleri tamamladıkça ekstra Shadows Points elde edersin.\r\nİlerlemeyi takip et → Kontrol paneli ve profil sayfan üzerinden toplam Shadows Points miktarını, kazandığın rozetleri ve liderlik tablosundaki sıralamanı düzenli olarak kontrol et.\r\nGüncel kalmak için 𝕏’te @Shade_L2 hesabını takip etmeyi ve Telegram topluluğuna katılmayı unutma.\r\n[/gorev]\r\n\r\n[gorev]\r\nDiscord Hesabını Doğrula:\r\nDiscorta kayıt ol hesabını doğrula.\r\nDiscort linki : https://t.me/Shade_L2\r\n[/gorev]",
-      "tasks": [],
+      "summary": "Ethereum, en merkeziyetsiz Layer 1 ağlardan biri olsa da yerleşik bir gizlilik altyapısına hâlâ sahip değil.\r\n\r\nShade Network, yürütme katmanında gizliliği yeniden sağlamak için devreye giriyor 🕶️\r\n\r\nShade, Ethereum üzerine inşa edilmiş, varsayılan olarak şifreli çalışan özel bir Layer 2 ağıdır. İşlemler onaylandıktan sonra, her transfer, akıllı sözleşme etkileşimi ve agent aksiyonu görünmez hâle gelir.\r\n\r\nTeknik tarafta ise işlemler hiçbir zaman herkese açık bir mempool’a girmez, yürütme verileri şifrelenir ve akıllı sözleşme etkileşimleri dış gözlemcilere tamamen kapalı kalır. Bu yapı; kullanıcı davranışlarının izlenmesini, strateji sızıntılarını ve frontrunning riskini yürütme sürecinden ortadan kaldırır 🔐\r\n\r\n🪂 Testnet’in yayına girmesiyle birlikte Shade Network, $SHD Airdrop Season 0 sürecini başlattı.\r\n\r\nBu ilk aşamada kullanıcılar; basit sosyal görevleri tamamlayarak, onchain testnet görevlerine katılarak ve arkadaşlarını davet ederek şifreli yürütme yapısıyla etkileşime girebiliyor.\r\n\r\nToplam $SHD token arzının %33.3’üne kadar olan kısmı, Season 0 airdrop’una ayrılmış durumda ✨\r\n\r\nKatılım, Shade ağı üzerindeki gerçek aktiviteleri yansıtan Points sistemi üzerinden takip ediliyor.",
+      "tasks": [
+        {
+          "id": "",
+          "title": "Shade Network Airdrop Adım Adım Rehber",
+          "description": "Başlangıç → Shade Network testnet portalına gir, EVM uyumlu cüzdanını bağla ve profilini aktif etmek için kendine özel bir kullanıcı adı seç. Böylece görevler paneline erişim açılır.\nSosyal görevler → Social bölümüne geçerek Shade’i 𝕏’te takip etmek, Discord’a katılmak ve resmi paylaşımlarla etkileşime girmek gibi görevleri tamamla. Bu adımlarla Shadows Points kazanırsın.\nOnchain görevler → Onchain sekmesine geç ve testnet üzerindeki aktiviteleri tamamlayarak şifreli işlemlerle etkileşime gir. Tamamlanan her görev ek Shadows Points kazandırır.\nReferanslar → Davet linkini arkadaşlarınla paylaş. Davet edilen kullanıcılar katılıp görevleri tamamladıkça ekstra Shadows Points elde edersin.\nİlerlemeyi takip et → Kontrol paneli ve profil sayfan üzerinden toplam Shadows Points miktarını, kazandığın rozetleri ve liderlik tablosundaki sıralamanı düzenli olarak kontrol et.\nGüncel kalmak için 𝕏’te @Shade_L2 hesabını takip etmeyi ve Telegram topluluğuna katılmayı unutma.",
+          "available_at": ""
+        },
+        {
+          "id": "",
+          "title": "Discord Hesabını Doğrula:",
+          "description": "Discorta kayıt ol hesabını doğrula.\nDiscort linki : https://t.me/Shade_L2",
+          "available_at": ""
+        }
+      ],
       "published_at": "",
       "tag": "Testnet",
       "image_url": "",
@@ -15,7 +28,8 @@
         "x": "https://x.com/Shade_L2",
         "discord": "",
         "telegram": "https://t.me/Shade_L2"
-      }
+      },
+      "updated_at": "2026-02-01T17:40:22"
     }
   ]
 }
