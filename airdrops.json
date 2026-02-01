@@ -12,7 +12,7 @@
           "id": "",
           "title": "Shade Network Airdrop Adım Adım Rehber",
           "description": "Başlangıç → Shade Network testnet portalına gir, EVM uyumlu cüzdanını bağla ve profilini aktif etmek için kendine özel bir kullanıcı adı seç. Böylece görevler paneline erişim açılır.\nSosyal görevler → Social bölümüne geçerek Shade’i 𝕏’te takip etmek, Discord’a katılmak ve resmi paylaşımlarla etkileşime girmek gibi görevleri tamamla. Bu adımlarla Shadows Points kazanırsın.\nOnchain görevler → Onchain sekmesine geç ve testnet üzerindeki aktiviteleri tamamlayarak şifreli işlemlerle etkileşime gir. Tamamlanan her görev ek Shadows Points kazandırır.\nReferanslar → Davet linkini arkadaşlarınla paylaş. Davet edilen kullanıcılar katılıp görevleri tamamladıkça ekstra Shadows Points elde edersin.\nİlerlemeyi takip et → Kontrol paneli ve profil sayfan üzerinden toplam Shadows Points miktarını, kazandığın rozetleri ve liderlik tablosundaki sıralamanı düzenli olarak kontrol et.\nGüncel kalmak için 𝕏’te @Shade_L2 hesabını takip etmeyi ve Telegram topluluğuna katılmayı unutma.",
-          "task_type": "one_time",
+          "task_type": "gunluk",
           "minutes_est": 2,
           "available_at": ""
         },
