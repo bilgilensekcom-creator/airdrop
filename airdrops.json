@@ -21,15 +21,16 @@
           "available_at": ""
         }
       ],
-      "published_at": "",
+      "published_at": "2026-02-01T18:46",
       "tag": "Testnet",
       "image_url": "",
       "links": {
+        "project": "https://v1.shadenetwork.io/",
+        "investment": "",
         "x": "https://x.com/Shade_L2",
         "discord": "",
         "telegram": "https://t.me/Shade_L2"
-      },
-      "updated_at": "2026-02-01T17:40:22"
+      }
     }
   ]
 }
