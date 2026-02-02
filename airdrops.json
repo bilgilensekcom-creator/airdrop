@@ -35,6 +35,34 @@
         "discord": "",
         "telegram": "https://t.me/Shade_L2"
       }
+    },
+    {
+      "source": "github",
+      "id": "ronin",
+      "title": "Ronin Creator Programı",
+      "project_url": "https://creators.roninchain.com/",
+      "url": "https://creators.roninchain.com/",
+      "summary": "Ronin, içerik üreticileri için $RON token ödülleri sunan yeni bir program başlattı. Token ödüllerine ek olarak, seçilen katılımcılar farklı etkinliklere erken erişim hakkı kazanacak ve resmi X hesabı üzerinden tweet desteği alacak.",
+      "tasks": [
+        {
+          "id": "",
+          "title": "Aşağıdaki bağlantıyı ziyaret edin, şartlar ve koşulları inceleyin ve başvuru formunu doldurun. X Hesabını inceleyin.",
+          "description": "https://creators.roninchain.com/",
+          "task_type": "one_time",
+          "minutes_est": 2,
+          "available_at": ""
+        }
+      ],
+      "published_at": "2026-02-02T15:13",
+      "tag": "Form",
+      "image_url": "",
+      "links": {
+        "project": "https://creators.roninchain.com/",
+        "investment": "",
+        "x": "https://x.com/Ronin_Network/status/2016889072346640676",
+        "discord": "",
+        "telegram": ""
+      }
     }
   ]
 }
