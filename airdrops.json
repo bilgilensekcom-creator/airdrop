@@ -63,6 +63,42 @@
         "discord": "",
         "telegram": ""
       }
+    },
+    {
+      "source": "github",
+      "id": "upshot",
+      "title": "Upshot ile Etkileşim",
+      "project_url": "https://upshot.cards/?code=29cab540",
+      "url": "https://upshot.cards/?code=29cab540",
+      "summary": "Upshot projesi şu anda Closed Alpha aşamasında. Bu süreçte tahmin kartları toplayabilir ve platform içinde alım satım yapabilirsiniz. Proje, Base tarafından desteklenmesi ve doğrulanmış 50.000$ ödül havuzu sunması nedeniyle dikkat çekiyor. Ayrıca ilerleyen dönemde aktif kullanıcılar için bir airdrop ihtimali de bulunuyor.",
+      "tasks": [
+        {
+          "id": "",
+          "title": "1. Web sitesine gidin ve e posta adresiniz ya da X hesabınızla kayıt olun.",
+          "description": "2. Her gün ücretsiz tahmin kartlarını alın. Karttaki tahmin doğru çıkarsa, üzerinde belirtilen ödülü kazanırsınız.\n3. Günlük USDT ödülünüzü talep edin.\n4. İsterseniz profiliniz üzerinden kartlarınızı satabilir ve Marketplace sekmesinden başka kartlar satın alabilirsiniz.\n5. Proje belirli aralıklarla yeni kart paketleri ekliyor. Güncellemeler için X hesabını takip edin ve Store sekmesinden kartları alın.\n6. Events sekmesinde yarışmalara katılın ve sınırlı sayıda üretilen özel kartları satın alın.",
+          "task_type": "daily",
+          "minutes_est": 1,
+          "available_at": ""
+        },
+        {
+          "id": "",
+          "title": "Discord Roller",
+          "description": "Upshot projesinin Discord sunucusunda şu anda üç farklı rol bulunuyor. Dropshotter rolü, reaksiyona tıklayan herkes tarafından alınabiliyor. Shot Caller ve Based Shotter rolleri ise ekip tarafından, aktif içerik üreten kullanıcılara uygun görüldüğü takdirde veriliyor.",
+          "task_type": "one_time",
+          "minutes_est": 2,
+          "available_at": ""
+        }
+      ],
+      "published_at": "2026-02-02T15:37",
+      "tag": "Etkileşim",
+      "image_url": "",
+      "links": {
+        "project": "https://upshot.cards/?code=29cab540",
+        "investment": "",
+        "x": "",
+        "discord": "https://discord.com/invite/upshot",
+        "telegram": ""
+      }
     }
   ]
 }
