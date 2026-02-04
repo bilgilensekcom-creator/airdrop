@@ -34,6 +34,11 @@
         "x": "https://x.com/Shade_L2",
         "discord": "",
         "telegram": "https://t.me/Shade_L2"
+      },
+      "timeline": {
+        "snapshot": "",
+        "claim": "",
+        "vesting": ""
       }
     },
     {
@@ -62,6 +67,11 @@
         "x": "https://x.com/Ronin_Network/status/2016889072346640676",
         "discord": "",
         "telegram": ""
+      },
+      "timeline": {
+        "snapshot": "",
+        "claim": "",
+        "vesting": ""
       }
     },
     {
@@ -98,6 +108,11 @@
         "x": "",
         "discord": "https://discord.com/invite/upshot",
         "telegram": ""
+      },
+      "timeline": {
+        "snapshot": "2026-02-11 17:58",
+        "claim": "2026-03-11 17:58",
+        "vesting": "2026-04-25 17:58"
       }
     }
   ]
