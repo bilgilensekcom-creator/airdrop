@@ -39,7 +39,9 @@
         "snapshot": "",
         "claim": "",
         "vesting": ""
-      }
+      },
+      "network": "",
+      "category": ""
     },
     {
       "source": "github",
@@ -72,7 +74,9 @@
         "snapshot": "",
         "claim": "",
         "vesting": ""
-      }
+      },
+      "network": "",
+      "category": ""
     },
     {
       "source": "github",
@@ -100,7 +104,7 @@
         }
       ],
       "published_at": "2026-02-02T15:37",
-      "tag": "Etkileşim",
+      "tag": "Upshot Airdrop",
       "image_url": "",
       "links": {
         "project": "https://upshot.cards/?code=29cab540",
@@ -113,7 +117,9 @@
         "snapshot": "2026-02-11 17:58",
         "claim": "2026-03-11 17:58",
         "vesting": "2026-04-25 17:58"
-      }
+      },
+      "network": "Ethereum",
+      "category": "Günlük"
     }
   ]
 }
