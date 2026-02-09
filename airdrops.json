@@ -6,7 +6,7 @@
       "title": "Shade Network",
       "project_url": "https://v1.shadenetwork.io/",
       "url": "https://v1.shadenetwork.io/",
-      "summary": "Ethereum oldukça merkeziyetsiz olsa da hâlâ yerleşik bir gizlilik katmanına sahip değil. Shade Network bu boşluğu doldurmak için, Ethereum üzerine inşa edilmiş varsayılan olarak şifreli çalışan özel bir Layer 2 olarak ortaya çıkıyor. Shade üzerinde yapılan tüm transferler, akıllı sözleşme etkileşimleri ve agent işlemleri onaylandıktan sonra tamamen görünmez hâle geliyor.\r\n\r\nİşlemler hiçbir zaman herkese açık mempool’a düşmüyor, yürütme verileri şifreleniyor ve dış gözlemciler sözleşme etkileşimlerini takip edemiyor. Bu sayede kullanıcı davranışlarının izlenmesi, strateji sızıntıları ve frontrunning riskleri yürütme katmanında ortadan kalkıyor.\r\n\r\nTestnet’in açılmasıyla birlikte Shade Network, $SHD Airdrop Season 0 sürecini başlattı. Kullanıcılar bu aşamada sosyal görevler, onchain testnet aktiviteleri ve davetler aracılığıyla ağa katılım sağlayabiliyor. Toplam $SHD arzının %33.3’üne kadar olan kısmı Season 0 airdrop’una ayrılmış durumda ve katılım, ağ üzerindeki gerçek aktiviteleri yansıtan Points sistemiyle ölçülüyor.",
+      "summary": "Ethereum merkeziyetsiz olsa da yerleşik gizlilik sunmuyor. Shade Network, Ethereum üzerine inşa edilmiş, varsayılan olarak şifreli çalışan özel bir Layer 2 olarak bu sorunu çözüyor. İşlemler mempool’a düşmeden şifreli biçimde yürütülüyor ve tüm transferler ile sözleşme etkileşimleri onay sonrası görünmez hâle geliyor.\r\n\r\nTestnet ile birlikte $SHD Airdrop Season 0 başladı. Kullanıcılar sosyal ve onchain görevlerle puan kazanıyor. Toplam $SHD arzının %33.3’ü bu airdrop’a ayrılmış durumda.",
       "tasks": [
         {
           "id": "",
