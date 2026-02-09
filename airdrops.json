@@ -41,7 +41,10 @@
         "vesting": ""
       },
       "network": "",
-      "category": ""
+      "category": "",
+      "type": "",
+      "investors": [],
+      "investment_amount": ""
     },
     {
       "source": "github",
@@ -76,7 +79,10 @@
         "vesting": ""
       },
       "network": "",
-      "category": ""
+      "category": "",
+      "type": "",
+      "investors": [],
+      "investment_amount": ""
     },
     {
       "source": "github",
@@ -119,7 +125,12 @@
         "vesting": "2026-04-25 17:58"
       },
       "network": "Ethereum",
-      "category": "Günlük"
+      "category": "Günlük",
+      "type": "Social",
+      "investors": [
+        "Binance Labs"
+      ],
+      "investment_amount": "15M"
     }
   ]
 }
