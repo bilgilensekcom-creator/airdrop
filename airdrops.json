@@ -217,6 +217,44 @@
         "discord": "",
         "telegram": ""
       }
+    },
+    {
+      "source": "github",
+      "id": "aidotcom",
+      "title": "Aidotcom",
+      "project_url": "https://ai.com",
+      "url": "https://ai.com",
+      "summary": "Crypto.com – AI(.)com – Airdrop \r\n\r\nCrypto.com CEO’su tarafından 80.000.000$’a satın alınan @aidotcom üzerinde ücretsiz handle alarak yerimizi alalım",
+      "tasks": [
+        {
+          "id": "",
+          "title": "• Doğrudan https://ai.com",
+          "description": "adresine gidin.\n• “Claim Handle” butonuna basın ve Google hesabınızla giriş yapın.\n• Kullanıcı adınızı belirleyin.\n• Kart bilgilerinizi girerek doğrulamayı tamamlayın. İsterseniz sanal kart kullanabilirsiniz. Herhangi bir ücret çekilmiyor, sadece doğrulama amacıyla isteniyor.\nŞimdilik işlemler bu kadar. Crypto.com CEO’su burada birebir inşa sürecinde olduklarını ve bazı planlar olduğunu belirtti. Erkenden konumlanmakta fayda var.\n[img]https://x.com/KriptoliaTR/status/2020800590339600620/photo/1[/img]",
+          "task_type": "one_time",
+          "minutes_est": 2,
+          "available_at": ""
+        }
+      ],
+      "timeline": {
+        "snapshot": "",
+        "claim": "",
+        "vesting": ""
+      },
+      "published_at": "2026-02-11T21:10",
+      "tag": "",
+      "network": "",
+      "category": "",
+      "type": "AI",
+      "investors": [],
+      "image_url": "",
+      "investment_amount": "",
+      "links": {
+        "project": "https://ai.com",
+        "investment": "",
+        "x": "https://x.com/aidotcom",
+        "discord": "",
+        "telegram": ""
+      }
     }
   ]
 }
