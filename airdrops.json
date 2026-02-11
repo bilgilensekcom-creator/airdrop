@@ -143,7 +143,7 @@
         {
           "id": "",
           "title": "Airdrop Adımları",
-          "description": "Eklentiyi kurarak hemen yerimizi alıyoruz ve airdrop için puan toplamaya başlıyoruz.\nNetflix ya da MBO üzerinden dizi, film vb. içerikleri izledikçe puan kazanıyoruz.\nBiriken puanlar ileride tokenlere dönüşecek.\n🔗 Doğrudan şu adresten giriş yapın:\nhttp://app.rumi.io/signin?ref=XBE7HDH5\n➤ Google veya e-posta ile kayıt olun.\n➤ Uzantıyı indirip kurun. Ardından dashboard’a gidin.\nUzantıda sağ alttaki üç çizgiye tıklayın, sonra My Dashboard butonuna basın.\n➤ Kendi davet linkinizi alın ve arkadaşlarınızla paylaşın.\n✅ Yüksek yatırım almış bu projede erkenden yerimizi alalım.\nBir şeyler izlerken uzantının açık kalması yeterli.",
+          "description": "Eklentiyi kurarak hemen yerimizi alıyoruz ve airdrop için puan toplamaya başlıyoruz.\nNetflix ya da MBO üzerinden dizi, film vb. içerikleri izledikçe puan kazanıyoruz.\nBiriken puanlar ileride tokenlere dönüşecek.\n🔗 Doğrudan aşağıdaki adresten giriş yapın:\n➤ Google veya e-posta ile kayıt olun.\n➤ Uzantıyı indirip kurun. Ardından dashboard’a gidin.\nUzantıda sağ alttaki üç çizgiye tıklayın, sonra My Dashboard butonuna basın.\n➤ Kendi davet linkinizi alın ve arkadaşlarınızla paylaşın.\n✅ Yüksek yatırım almış bu projede erkenden yerimizi alalım.\nBir şeyler izlerken uzantının açık kalması yeterli.",
           "task_type": "one_time",
           "minutes_est": 2,
           "available_at": ""
@@ -171,6 +171,49 @@
         "project": "http://app.rumi.io/signin?ref=XBE7HDH5",
         "investment": "",
         "x": "https://x.com/RumiLabs_io",
+        "discord": "",
+        "telegram": ""
+      }
+    },
+    {
+      "source": "github",
+      "id": "modveon",
+      "title": "Modveon WaitList",
+      "project_url": "https://modveon.com",
+      "url": "https://modveon.com",
+      "summary": "10.000.000$ yatırım alan ve eski Coinbase yöneticileri tarafından kurulan @modveon projesinde süper erkenci olarak yerimizi alalım.\r\n\r\n💸 Maliyet: 0$\r\n⏱ Süre: 10 saniye",
+      "tasks": [
+        {
+          "id": "",
+          "title": "📝 Airdrop Adımları",
+          "description": "Proje, hükümetlerin ve bireylerin kimlik doğrulaması yapabileceği, güvenli iletişim kurabileceği ve yasal para transferi gerçekleştirebileceği bir “doğrulama işletim sistemi” inşa ediyor. Oldukça farklı ve güçlü bir konsept. Alpha aşamasında yakalamış oluyoruz.\n🔗 Waitlist adresine gidin:\nhttps://modveon.com\n➤ “Follow our launch” butonuna tıklayın.\n➤ E-posta adresinizi girip submit butonuna basın.\nİlk günden yerimizi alalım. Bu tarz güçlü ve gerçekçi projelerde erkenci olmak ciddi airdrop fırsatları doğurabiliyor.\nDaha fazla alpha için takipte kalın.",
+          "task_type": "one_time",
+          "minutes_est": 2,
+          "available_at": ""
+        }
+      ],
+      "timeline": {
+        "snapshot": "",
+        "claim": "",
+        "vesting": ""
+      },
+      "published_at": "2026-02-11T20:50",
+      "tag": "Waitlist",
+      "network": "",
+      "category": "Airdrop",
+      "type": "Ecosystem",
+      "investors": [
+        "• Coinbase Ventures",
+        "• Firebolt Ventures",
+        "• Humla Ventures",
+        "• Strategic Cyber Ventures"
+      ],
+      "image_url": "",
+      "investment_amount": "100000000",
+      "links": {
+        "project": "https://modveon.com",
+        "investment": "",
+        "x": "https://x.com/modveon",
         "discord": "",
         "telegram": ""
       }
