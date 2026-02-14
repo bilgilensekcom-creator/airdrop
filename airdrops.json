@@ -273,6 +273,47 @@
         "discord": "",
         "telegram": ""
       }
+    },
+    {
+      "source": "github",
+      "id": "nuva",
+      "title": "Nuva Waitlist",
+      "project_url": "https://nuva.finance/",
+      "url": "https://nuva.finance/",
+      "summary": "",
+      "tasks": [
+        {
+          "id": "",
+          "title": "Görev",
+          "description": "Potansiyel Airdrop NUVA Finance Waitlist 🪂\r\n\r\nAnimoca Brands ve NUVA Labs destekli yeni proje @NUVAFinance waitlist açtı\r\nErkenden katılıp olası bir airdrop için yerimizi alalım 🚀\r\n\r\nMaliyet 0$ \r\nSüre 5 sn \r\n\r\n\r\n\r\n\r\n✅ Airdrop işlemleri\r\n\r\nhttps://nuva.finance sitesine gir\r\n\r\nÜstteki Join Waitlist butonuna bas\r\n\r\nİsim ve e mail adresini girip kaydet\r\n\r\n✔️ Şimdilik bu kadar",
+          "task_type": "one_time",
+          "minutes_est": 2,
+          "available_at": "",
+          "images": [
+            "https://raw.githubusercontent.com/bilgilensekcom-creator/airdrop/main/nuva.jpg"
+          ]
+        }
+      ],
+      "timeline": {
+        "snapshot": "",
+        "claim": "",
+        "vesting": ""
+      },
+      "published_at": "2026-02-14T17:36",
+      "tag": "Etkileşim",
+      "network": "",
+      "category": "Form",
+      "type": "Ecosystem",
+      "investors": [],
+      "image_url": "",
+      "investment_amount": "",
+      "links": {
+        "project": "https://nuva.finance/",
+        "investment": "",
+        "x": "https://x.com/NUVAFinance",
+        "discord": "",
+        "telegram": ""
+      }
     }
   ]
 }
